@@ -96,8 +96,8 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
+      name: "宝贝",
+      id: "o0iBz6BRiQc9rCXFRqXUc3Y14Qcc",
       useTemplateId: "",
       province: "",
       city: "",
@@ -148,7 +148,7 @@ export const USER_CONFIG = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "o0iBz6GT_RvzJ6o6T1dUWVLiLJP4",
     },
     // 你可以不断按格式往下增加
     // ...
